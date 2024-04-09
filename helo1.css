@@ -1,0 +1,66 @@
+body{
+    background-image:url('C:/Users/BABY/Downloads/i.jpeg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+       
+      padding-top: 50px;
+      padding-bottom: 50px;
+      margin-left: 20%;
+      margin-right: 20%;
+    }
+    
+    h1
+    {   text-align: center;
+      color: brown; 
+      font-family: Verdana;
+       
+    }
+
+    ul
+    { 
+        font-size: medium;
+       color:blueblack; 
+       float: right;
+       padding: 20px;
+      
+      }
+
+      a
+      {
+        color: blueviolet;
+
+      }
+
+      footer
+      {  text-transform: capitalize;
+         padding-top: 80px;
+         text-align: center;
+        }
+
+      li
+      {   
+         padding: 10px;
+      }
+      h3
+      {  
+        font-size: large;
+        color: black;
+        
+      }
+
+      .container
+      {
+        background-color: black;
+        
+      }
+      h1
+      {
+        padding-top: 50pxl;
+        padding-bottom: 50pxl;
+        text-transform: uppercase;
+      }
+      h2{
+        padding-left: 0%;
+        float: right;
+      }
